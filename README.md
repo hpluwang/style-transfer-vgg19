@@ -2,6 +2,9 @@
 
 This repository contains code for performing neural style transfer using VGG19 model in PyTorch.
 
+![image](https://github.com/hpluwang/style-transfer-vgg19/assets/53874420/b7589d0c-f669-48fa-9c1e-861511bce134)
+
+
 ## Overview
 
 Neural style transfer is a technique that allows you to apply the artistic style of one image to the content of another image. In this project, we use the VGG19 convolutional neural network, pretrained on ImageNet, to extract feature maps. These feature maps are used to calculate style and content losses, which are then optimized to generate a new image that combines the content of one image with the style of another.
